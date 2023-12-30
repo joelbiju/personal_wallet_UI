@@ -5,3 +5,5 @@ A sample personal wallet management app UI made in flutter. <br>
 
 <h3>Screenshots</h3>
 ![Screenshot 1](personal_wallet_UI/screenshots/ss1.png)
+
+img src='/screenshots/ss1.png';
